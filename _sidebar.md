@@ -3,7 +3,7 @@
 - Weekly Homework
   - [1. Project Management]()
     - [How to build web](class/1pm/1pm-web.md)
-    - [Hntroduce team]()
+    - [Introduce team]()
     - [Introduce final project]()
   - [2. Arduino basic]()
   - [3. CAD]()
