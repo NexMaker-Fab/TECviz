@@ -1,17 +1,17 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - Team introduction
 - Weekly Homework
-  - [1. PM]()
-    - [how to build web](class/1pm/1pm-web.md)
-    - [introduce team]()
-    - [introduce final project]()
-  - [2. arduino basic]()
+  - [1. Project Management]()
+    - [How to build web](class/1pm/1pm-web.md)
+    - [Hntroduce team]()
+    - [Introduce final project]()
+  - [2. Arduino basic]()
   - [3. CAD]()
   - [4. 3D printing]()
 - Final project
-  - [topic]()
-  - [innovation]()
-  - [market]()
-  - [how to design]()
-  - [how to make]()
+  - [Topic]()
+  - [Innovation]()
+  - [Market]()
+  - [How to design]()
+  - [How to make]()
   - [SDGs]()
