@@ -1,6 +1,6 @@
 <!-- 侧边栏 docs/_sidebar.md -->
-- ## Team introduction
-- ## Weekly Homework
+- **Team introduction**
+- **Weekly Homework**
   - [1. Project Management](1pm/guide.md)
     - [How to build web](1pm/web.md)
     - [Introduce team](team/intro.md)
@@ -8,7 +8,7 @@
   - [2. CAD]()
   - [3. Arduino Basic]()
   - [4. 3D Printing]()
-- ## Final Project
+- **Final Project**
   - [Topic]()
   - [Innovation]()
   - [Market]()
