@@ -1,8 +1,8 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - ## Team introduction
 - ## Weekly Homework
-  - [1. Project Management]()
-    - [How to build web](1pm/1pm-web.md)
+  - [1. Project Management](1pm/guide.md)
+    - [How to build web](1pm/web.md)
     - [Introduce team](team/intro.md)
     - [Introduce Final Project](1pm/final.md)
   - [2. CAD]()
