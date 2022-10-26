@@ -1,6 +1,6 @@
 # TEAM ONE  
 ## Welcome 
-* TECHNOLOGY
 * DESIGN
-* AESTHETIC
+* ENGINEERING
+
 [Get Started](./README.md)
