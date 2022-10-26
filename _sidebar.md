@@ -2,9 +2,9 @@
 - Team introduction
 - Weekly Homework
   - [1. Project Management]()
-    - [How to build web](class/1pm/1pm-web.md)
-    - [Introduce team]()
-    - [Introduce final project]()
+    - [How to build web](1pm/1pm-web.md)
+    - [Introduce team](1pm/team.md)
+    - [Introduce final project](1pm/final.md)
   - [2. Arduino basic]()
   - [3. CAD]()
   - [4. 3D printing]()
