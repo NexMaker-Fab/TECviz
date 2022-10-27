@@ -1,13 +1,18 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - **Team introduction**
+  - [Introduction to Design Engineering](intro/introdesigneng.md)
+  - [Team Introduction](team/intro.md)
 - **Weekly Homework**
   - [1. Project Management](1pm/guide.md)
     - [How to build web](1pm/web.md)
     - [Introduce team](team/intro.md)
     - [Introduce Final Project](1pm/final.md)
-  - [2. CAD]()
+  - [2. Computer Aided Design (CAD)]()
   - [3. Arduino Basic]()
   - [4. 3D Printing]()
+  - [5. Computer Controlled Cutting (CNC)]()
+  - [6. Open source hardware and Arduino basic]()
+  - [7. Interface application programming]()
 - **Final Project**
   - [Topic]()
   - [Innovation]()
