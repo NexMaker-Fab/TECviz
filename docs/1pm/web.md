@@ -127,13 +127,11 @@ See this link for usage of the `markdown` language: [link](https://www.runoob.co
 - Add the profile `_coverpage.md` to configure the coverpage, the code and rendering are as follows:  
 ```
 ![logo](_media/icon.svg)
-
 # TEAM ONE  
 > Welcome to Design Engineering 2022 
 * DESIGN
 * INNOVATION
 * BUSINESS
-
 [Github](https://github.com/NexMaker-Fab/2022zjudem-team1/tree/main)
 [Course Work](./README.md)
 [Project](finalproject/finalproject.md)
