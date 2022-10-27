@@ -6,8 +6,6 @@
   
 ## Install `docsify`
 + Enter the following in the command terminal: ``` npm i docsify-cli -g```
-
-## 
 - You need to create a project folder first, here I use the folder cloned from `github repository`[Tutorial step2](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html).  
 - Then Enter the `cd` command into the folder path in `cmd.exe`. You can also drag the folder into the exe, and it will automatically generate the path, as shown in the following figure. 
 >![](image link)
