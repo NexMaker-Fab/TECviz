@@ -1,13 +1,13 @@
 * Team Members
 
-  * [PETER MULENGA](team/peter.md)
-  * [AZAD MD TARIQUZZAMAN](team/azad.md)
-  * [SAFIN RAHMAN](team/safin.md)
-  * [DEAN LUBILO](team/dean.md)
-  * [AMIR UBED](team/amir.md)
-  * [IVAN ALEJAJANDRO BROCHE](team/ivan.md)
-  * [IVONILDE OLIVEIRA](team/ivonilde.md)
-  * [JEFFREY](team/jeffrey.md)
+  * [PETER MULENGA](intro/team/peter.md)
+  * [AZAD MD TARIQUZZAMAN](intro/team/azad.md)
+  * [SAFIN RAHMAN](intro/team/safin.md)
+  * [DEAN LUBILO](intro/team/dean.md)
+  * [AMIR UBED](intro/team/amir.md)
+  * [IVAN ALEJAJANDRO BROCHE](intro/team/ivan.md)
+  * [IVONILDE OLIVEIRA](intro/team/ivonilde.md)
+  * [JEFFREY](intro/team/jeffrey.md)
 
 * Language
   * [:uk: English](/)
