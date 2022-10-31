@@ -2,7 +2,7 @@
 
   * [PETER MULENGA](intro/team/peter.md)
   * [AZAD MD TARIQUZZAMAN](intro/team/azad.md)
-  * [SAFIN RAHMAN](intro/team/safin.md)
+  * [SAFIN RAHMAN](intro/team/safin/index.html)
   * [DEAN LUBILO](intro/team/dean.md)
   * [AMIR UBED](intro/team/amir.md)
   * [IVAN ALEJAJANDRO BROCHE](intro/team/ivan.md)

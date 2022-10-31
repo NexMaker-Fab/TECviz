@@ -7,7 +7,7 @@
     - [How to build web](1pm/web.md)
     - [Introduce team](intro/team/intro.md)
     - [Introduce Final Project](1pm/final.md)
-  - [2. Computer Aided Design (CAD)]()
+  - [2. Computer Aided Design (CAD)](cad/cadproject.md)
   - [3. Arduino Basic]()
   - [4. 3D Printing]()
   - [5. Computer Controlled Cutting (CNC)]()
