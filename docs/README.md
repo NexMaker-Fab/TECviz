@@ -4,33 +4,18 @@
   </a>
 </p>
 
-<p align="center">
-## Design Engineering
-</p>
+## Projects
 
-## Links
-
-## Features
-
-## Quick start
-
-## Showcase
-
-These projects are using docsify to generate their sites. Pull requests welcome :blush:
-
-Move to [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase)
-
-## Similar projects
-
-| Project                                          | Description                              |
+| Name                                          | Description                              |
 | ------------------------------------------------ | ---------------------------------------- |
-| [CAD](https://github.com/egoist/docute)       |  Effortlessly documentation done right |
-| [CAD2](https://github.com/docpress/docpress) | Documentation website generator          |
-| [Arduino](https://github.com/docpress/docpress) | Documentation website generator          |
-| [3D Printing](https://github.com/docpress/docpress) | Documentation website generator          |
-| [CAD](https://github.com/docpress/docpress) | Documentation website generator          |
-| [CAD](https://github.com/docpress/docpress) | Documentation website generator          |
+| [Web Page](docs/1pm/web.md)       |  Some highlights on how we designed and managed the website |
+| [CAD](docs/cad/guide.md)       |  A collection of CAD designs we uploaded for practice |
+| [3D Printing](docs/3dprinting/3d.md) | --          |
+| [Laser Cutting](docs/computercontrolledcutting/lazercutting.md) | --          |
+| [--](https://github.com/docpress/docpress) | --          |
+| [--](https://github.com/docpress/docpress) | --         |
+| [--](https://github.com/docpress/docpress) | --          |
 
-## Project Development
+## Final Project Development
 
 ## Special Thanks
