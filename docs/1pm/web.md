@@ -8,7 +8,7 @@
 + Enter the following in the command terminal: ``` npm i docsify-cli -g```
 - You need to create a project folder first, here I use the folder cloned from `github repository`[Tutorial step2](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html).  
 - Then Enter the `cd` command into the folder path in `cmd.exe`. You can also drag the folder into the exe, and it will automatically generate the path, as shown in the following figure. 
->![](image link)
+>![](https://i.ibb.co/v1YvWDD/24.png)
 
 ## Install `node.js`
 Before installing `docsify`, we need to install the `npm` package manager, and the installation of `node.js` will automatically install `npm`.
@@ -28,7 +28,7 @@ Before installing `docsify`, we need to install the `npm` package manager, and t
 ### Preview
 Enter the following in cmd.exe:``` docsify serve docs```  
 You will get the following results.   
-![](image link)
+![]()
 Then opern browser to visit http://localhost:3000, you will get a initial website.   
 What i want to emphasize is that :  
 You need to hang a cmd service to modify the document before it can be updated to the website.
