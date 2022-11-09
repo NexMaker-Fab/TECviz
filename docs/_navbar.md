@@ -8,7 +8,3 @@
   * [IVAN ALEJAJANDRO BROCHE](intro/team/ivan.md)
   * [IVONILDE OLIVEIRA](intro/team/ivonilde.md)
   * [JEFFREY](intro/team/jeffrey.md)
-
-* Language
-  * [:uk: English](/)
-  * [:cn: 简体中文](/zh-cn/)

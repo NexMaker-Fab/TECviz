@@ -4,29 +4,18 @@
   </a>
 </p>
 
-## Links
+## Projects
 
-## Features
-
-## Quick start
-
-## Showcase
-
-These projects are using docsify to generate their sites. Pull requests welcome :blush:
-
-Move to [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase)
-
-## Similar projects
-
-| Project                                          | Description                              |
+| Name                                          | Description                              |
 | ------------------------------------------------ | ---------------------------------------- |
+| [Web Page](docs/1pm/web.md)       |  Some highlights on how we designed and managed the website |
 | [CAD](docs/cad/guide.md)       |  A collection of CAD designs we uploaded for practice |
-| [3D Printing](docs/3dprinting/3d.md) | Documentation website generator          |
-| [Arduino]() | Documentation website generator          |
-| [--](https://github.com/docpress/docpress) | Documentation website generator          |
-| [--](https://github.com/docpress/docpress) | Documentation website generator          |
-| [--](https://github.com/docpress/docpress) | Documentation website generator          |
+| [3D Printing](docs/3dprinting/3d.md) | --          |
+| [Laser Cutting](docs/computercontrolledcutting/lazercutting.md) | --          |
+| [--](https://github.com/docpress/docpress) | --          |
+| [--](https://github.com/docpress/docpress) | --         |
+| [--](https://github.com/docpress/docpress) | --          |
 
-## Project Development
+## Final Project Development
 
 ## Special Thanks

@@ -8,11 +8,9 @@
     - [Introduce team](intro/team/intro.md)
     - [Introduce Final Project](1pm/final.md)
   - [2. Computer Aided Design (CAD)](cad/guide.md)
-  - [3. Arduino Basic]()
-  - [4. 3D Printing]()
-  - [5. Computer Controlled Cutting (CNC)]()
-  - [6. Open source hardware and Arduino basic]()
-  - [7. Interface application programming]()
+  - [3. 3D Printing](3dprinting/3d.md)
+  - [4. Computer Controlled Cutting]()
+
 - **Final Project**
   - [Topic]()
   - [Innovation]()
