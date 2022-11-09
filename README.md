@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-## Design Engineering
-</p>
-
 ## Links
 
 ## Features
@@ -24,12 +20,12 @@ Move to [awesome-docsify](https://github.com/docsifyjs/awesome-docsify#showcase)
 
 | Project                                          | Description                              |
 | ------------------------------------------------ | ---------------------------------------- |
-| [CAD](https://github.com/egoist/docute)       |  Effortlessly documentation done right |
-| [CAD2](https://github.com/docpress/docpress) | Documentation website generator          |
-| [Arduino](https://github.com/docpress/docpress) | Documentation website generator          |
-| [3D Printing](https://github.com/docpress/docpress) | Documentation website generator          |
-| [CAD](https://github.com/docpress/docpress) | Documentation website generator          |
-| [CAD](https://github.com/docpress/docpress) | Documentation website generator          |
+| [CAD](docs/cad/guide.md)       |  A collection of CAD designs we uploaded for practice |
+| [3D Printing](docs/3dprinting/3d.md) | Documentation website generator          |
+| [Arduino]() | Documentation website generator          |
+| [--](https://github.com/docpress/docpress) | Documentation website generator          |
+| [--](https://github.com/docpress/docpress) | Documentation website generator          |
+| [--](https://github.com/docpress/docpress) | Documentation website generator          |
 
 ## Project Development
 
