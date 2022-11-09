@@ -7,7 +7,7 @@
     - [How to build web](1pm/web.md)
     - [Introduce team](intro/team/intro.md)
     - [Introduce Final Project](1pm/final.md)
-  - [2. Computer Aided Design (CAD)](cad/guide.md)
+  - [2. Computer Aided Design (CAD)](cad/clampassembly.md)
   - [3. 3D Printing](3dprinting/3d.md)
   - [4. Computer Controlled Cutting]()
 
