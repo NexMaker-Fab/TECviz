@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docsify.js.org">
-    <img alt="Team One" src="./docs/_media/icon.svg">
+    <img alt="TECviz" src="./docs/_media/icon.svg">
   </a>
 </p>
 
