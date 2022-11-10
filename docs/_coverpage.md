@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# TEAM ONE  
+# TECviz  
 > Welcome to Design Engineering 2022 
 * DESIGN
 * INNOVATION
