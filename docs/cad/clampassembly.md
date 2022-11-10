@@ -1,4 +1,4 @@
-# CLAMP ASSEMBLY USING SOLIDWORKS 2022
+# CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
 ![](https://i.ibb.co/v1YvWDD/24.png)
 ![](https://i.ibb.co/zXcBcfG/1.png)
 ![](https://i.ibb.co/xfXDxCc/2.png)
@@ -112,7 +112,6 @@
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/cvNv30L/Pin-B.png)
 ## PIN C
->![]()
 ### 3D MODEL
 ><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ### MODELLING PROCEDURE
