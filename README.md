@@ -1,8 +1,11 @@
-<p align="center">
-  <a href="https://docsify.js.org">
-    <img alt="TECviz" src="./docs/_media/icon.svg">
-  </a>
-</p>
+![logo](_media/icon.svg ':size=20%')
+### Course Outline
++ #### Content of the course  
+    ##### Assignment references   
+    - [web build](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)   
+    - [image upload Service](https://petyr.imgbb.com/)
+    - [CAD](cad)
+    - [3D Printing](cad)
 
 ## Projects
 
