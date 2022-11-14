@@ -1,16 +1,25 @@
+# TEAM INTRODUCTION
+* Team Members
 
+  * [PETER MULENGA](peter.md)
+  * [AZAD MD TARIQUZZAMAN](azad.md)
+  * [SAFIN RAHMAN](safin.md)
+  * [DEAN LUBILO](dean.md)
+  * [AMIR UBED](amir.md)
+  * [IVONILDE OLIVEIRA](ivonilde.md)
+  * [JEFFREY](jeffrey.md)
 # Introduction
    
 [the main tutorial](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
 # Steps
   
-## Install `docsify`
+?> Install `docsify`
 + Enter the following in the command terminal: ``` npm i docsify-cli -g```
 - You need to create a project folder first, here I use the folder cloned from `github repository`[Tutorial step2](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html).  
 - Then Enter the `cd` command into the folder path in `cmd.exe`. You can also drag the folder into the exe, and it will automatically generate the path, as shown in the following figure. 
 >![](https://i.ibb.co/v1YvWDD/24.png)
 
-## Install `node.js`
+?> Install `node.js`
 Before installing `docsify`, we need to install the `npm` package manager, and the installation of `node.js` will automatically install `npm`.
 ### Installation  
 - Download the installation program from [the official website](https://nodejs.org/en/).  
@@ -142,3 +151,51 @@ See this link for usage of the `markdown` language: [link](https://www.runoob.co
 # Setting search bar
 - Configure search bar in `index.html` as following  
 >![](image link)
+
+# Setting up the Custom navbar
+
+## HTML
+
+If you need custom navigation, you can create a HTML-based navigation bar.
+
+!> Note that documentation links begin with `#/`.
+
+```html
+<!-- index.html -->
+
+<body>
+  <nav>
+    <a href="#/">EN</a>
+    <a href="#/zh-cn/">简体中文</a>
+  </nav>
+  <div id="app"></div>
+</body>
+```
+
+## Markdown
+
+Alternatively, you can create a custom markdown-based navigation file by setting `loadNavbar` to **true** and creating `_navbar.md`, compare [loadNavbar configuration](configuration.md#loadnavbar).
+
+```html
+<!-- index.html -->
+
+<script>
+  window.$docsify = {
+    loadNavbar: true
+  }
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+```
+
+```markdown
+<!-- _navbar.md -->
+
+* [En](/)
+* [chinese](/zh-cn/)
+```
+
+!> You need to create a `.nojekyll` in `./docs` to prevent GitHub Pages from ignoring files that begin with an underscore.
+
+`_navbar.md` is loaded from each level directory. If the current directory doesn't have `_navbar.md`, it will fall back to the parent directory. If, for example, the current path is `/guide/quick-start`, the `_navbar.md` will be loaded from `/guide/_navbar.md`.
+
+# INTRODUCTION TO OUR PROJECT
