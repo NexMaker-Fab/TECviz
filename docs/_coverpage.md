@@ -1,5 +1,5 @@
 
-![logo](_media/icon.svg ':size=60%')  
+![logo](_media/icon.svg ':size=20%')  
 > Welcome to Design Engineering 2022 
 * DESIGN
 * ENGINEERING
