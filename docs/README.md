@@ -1,4 +1,4 @@
-![logo](_media/icon.svg ':size=60%')
+![logo](_media/icon.svg ':size=20%')
 
 ## Projects
 
