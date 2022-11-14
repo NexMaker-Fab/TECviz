@@ -1,9 +1,8 @@
-![logo](_media/icon.svg)
 
-# TECviz  
+![logo](_media/icon.svg ':size=60%')  
 > Welcome to Design Engineering 2022 
 * DESIGN
-* INNOVATION
+* ENGINEERING
 * BUSINESS
 
 [Github](https://github.com/NexMaker-Fab/2022zjudem-team1/tree/main)
