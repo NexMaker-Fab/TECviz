@@ -10,16 +10,12 @@
 
 ?> CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
 
-![](https://i.ibb.co/v1YvWDD/24.png)
-![](https://i.ibb.co/zXcBcfG/1.png)
-![](https://i.ibb.co/xfXDxCc/2.png)
-## SOLIDWORKS
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e439439c5bfdf9cc33f?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# 3D MODELLING
 ## ARM
 ### 3D MODEL
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43b02e45be18d69451?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/0CqbN9n/2.png)
 ![](https://i.ibb.co/740M0rc/step5.png)
@@ -125,11 +121,12 @@
 # FULL ASSEMBLY
 ### 3D MODEL
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e439439c5bfdf9cc33f?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/HF1ymKy/1.png)
 ![](https://i.ibb.co/9yrnD6r/2.png)
 ![](https://i.ibb.co/4s2kzVd/3.png)
-![](https://i.ibb.co/0tbTRzB/4.png)
+![](https://i.ibb.co/0tbTRzB/4.png)!
 ![](https://i.ibb.co/M604CNX/5.png)
 ![](https://i.ibb.co/hDH67Wn/6.png)
 ![](https://i.ibb.co/sKvhf9B/7.png)
