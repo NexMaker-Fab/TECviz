@@ -9,20 +9,21 @@
 | [--](https://github.com/docpress/docpress) | --          |
 
 ?> CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
+
 ![](https://i.ibb.co/v1YvWDD/24.png)
 ![](https://i.ibb.co/zXcBcfG/1.png)
 ![](https://i.ibb.co/xfXDxCc/2.png)
 ## SOLIDWORKS
->  ![]()
-> 
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e439439c5bfdf9cc33f?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 # 3D MODELLING
 ## ARM
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43b02e45be18d69451?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ### MODELLING PROCEDURE
->![](https://i.ibb.co/0CqbN9n/2.png ':size=50%')
-![](https://i.ibb.co/740M0rc/step5.png ':size=50%')
-![](https://i.ibb.co/q1HJy3S/step7.png ':size=50%')
+>![](https://i.ibb.co/0CqbN9n/2.png)
+![](https://i.ibb.co/740M0rc/step5.png)
+![](https://i.ibb.co/q1HJy3S/step7.png)
 ![](https://i.ibb.co/ch1vJzW/step8.png)
 ![](https://i.ibb.co/k68m2tS/step9.png)
 ![](https://i.ibb.co/StFBhHw/step10.png)
@@ -43,7 +44,8 @@
 
 ## SUPPORT
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43f8c0d99b51187597?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/0CqbN9n/2.png)
 ![](https://i.ibb.co/6WZBdbZ/3.png)
@@ -72,7 +74,8 @@
 ![](https://i.ibb.co/tJJ4wLK/26.png)
 ## THREADED SHAFT BASE
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43a8aaf59df55c9746?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/0DD2KFC/1.png)
 ![](https://i.ibb.co/890DgRm/2.png)
@@ -97,38 +100,31 @@
 ![](https://i.ibb.co/r3BCR7q/20.png)
 ## HINGE
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-### MODELLING PROCEDURE
->![](https://i.ibb.co/D4Mg6f6/Hinge.png)
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e432f419d2a8f4ba348?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## HANDLE
->![]()
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-### MODELLING PROCEDURE
->![](https://i.ibb.co/6bn81rg/Handle.png)
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43f22a5e4c43188061?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## HINGE B
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-### MODELLING PROCEDURE
->![](https://i.ibb.co/nMbZDjh/Hinge-B.png)
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e433b9397cb11b08f2d?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## PIN A
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-### MODELLING PROCEDURE
->![](https://i.ibb.co/hc54n1N/Pin-C.png)
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43dc73f1c2e1516777?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## PIN B
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-### MODELLING PROCEDURE
->![](https://i.ibb.co/cvNv30L/Pin-B.png)
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43485f41f7b9ec2d5d?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## PIN C
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-### MODELLING PROCEDURE
->![](https://i.ibb.co/X5LQGGq/Pin-A.png)
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e430493b453d3c88f43?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 # FULL ASSEMBLY
 ### 3D MODEL
-><iframe src="Link" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e439439c5bfdf9cc33f?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/HF1ymKy/1.png)
 ![](https://i.ibb.co/9yrnD6r/2.png)
