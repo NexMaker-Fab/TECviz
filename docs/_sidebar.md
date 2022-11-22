@@ -8,9 +8,8 @@
     - [How we built our webpage](1pm/web.md)
     - [Introduce Final Project](finalproject.md)
   - [2. Computer Aided Design (CAD)](cad/cadprojects.md)
-    - [Ivan](cad/cadprojects.md)
-    - [Peter Mulenga](cad/cadprojects.md#3d-model)
-    - [Safin](cad/cadprojects.md)
+    - [Peter Mulenga](cad/cadprojects.md#peter)
+    - [Safin](cad/cadprojects.md#safin)
   - [3. 3D Printing](3dprinting/3d.md)
   - [4. Computer Controlled Cutting](computercontrolledcutting/lazercutting.md)
 
