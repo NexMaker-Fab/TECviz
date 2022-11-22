@@ -1,16 +1,16 @@
 # TEAM INTRODUCTION
 * Team Members
 
-  * [PETER MULENGA](peter.md)
-  * [AZAD MD TARIQUZZAMAN](azad.md)
-  * [SAFIN RAHMAN](safin.md)
-  * [DEAN LUBILO](dean.md)
-  * [AMIR UBED](amir.md)
-  * [IVONILDE OLIVEIRA](ivonilde.md)
-  * [JEFFREY](jeffrey.md)
+  * [PETER MULENGA](intro/team/peter.md)
+  * [SAFIN RAHMAN](intro/team/safin.md)
+  * [AZAD MD TARIQUZZAMAN](intro/team/azad.md)
+  * [DEAN LUBILO](intro/team/dean.md)
+  * [AMIR UBED](intro/team/amir.md)
+  * [JEFFREY](intro/team/jeffrey.md)
+
+
+
 # Introduction
-   
-[the main tutorial](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)
 # Steps
   
 ?> Install `docsify`
@@ -43,6 +43,7 @@ What i want to emphasize is that :
 You need to hang a cmd service to modify the document before it can be updated to the website.
 
 ## Image upload Service
+- [image upload Service](https://petyr.imgbb.com/)
 We use picgo+github to load images.
 - The tutorial is at this [link](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html).  
 What i want to emphasize is 2 points.  

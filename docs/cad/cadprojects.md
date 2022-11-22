@@ -2,11 +2,21 @@
 | Project                                          | Description                              |
 | ------------------------------------------------ | ---------------------------------------- |
 | [Clamp Assembly-Peter Mulenga](clampassembly.md)       |  A CAD model drawn by Peter Mulenga |
-| [--](docs/3dprinting/3d.md) | --         |
-| [--]() | --          |
+| [Ivan Alejandro](docs/3dprinting/3d.md) | --         |
+| [Safin Rahman]() | --          |
 | [--](https://github.com/docpress/docpress) | --          |
 | [--](https://github.com/docpress/docpress) | --          |
 | [--](https://github.com/docpress/docpress) | --          |
+
+?> Ivan
+https://a360.co/3hzXemv
+
+?> Safin
+<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8f36976a8ceb2c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8cd4adadac2939?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://myzju321.autodesk360.com/shares/public/SH9285eQTcf875d3c539cfb51cd2e89bc126?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ?> CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e439439c5bfdf9cc33f?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>

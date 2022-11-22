@@ -1,24 +1,19 @@
 ![logo](_media/icon.svg ':size=20%')
-### Course Outline
-+ #### Content of the course  
-    ##### Assignment references   
-    - [web build](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html)   
-    - [image upload Service](https://petyr.imgbb.com/)
-    - [CAD](cad)
-    - [3D Printing](cad)
+
 
 ## Projects
 
 | Name                                          | Description                              |
 | ------------------------------------------------ | ---------------------------------------- |
-| [Web Page](docs/1pm/web.md)       |  Some highlights on how we designed and managed the website |
-| [CAD](docs/cad/guide.md)       |  A collection of CAD designs we uploaded for practice |
-| [3D Printing](docs/3dprinting/3d.md) | --          |
-| [Laser Cutting](docs/computercontrolledcutting/lazercutting.md) | --          |
-| [--](https://github.com/docpress/docpress) | --          |
-| [--](https://github.com/docpress/docpress) | --         |
-| [--](https://github.com/docpress/docpress) | --          |
+| [Web Page](1pm/web.md)       |  Some highlights on how we designed and developed the website. |
+| [CAD](cad/cadprojects.md)       |  A collection of CAD designs we uploaded for practice. |
+| [3D Printing](3dprinting/3d.md) | A tutorial Demonstrating 3D printing in industry.        |
+| [Laser Cutting](computercontrolledcutting/lazercutting.md) | A demonstration of the CNC (Computer Numerical Control) in the Non-conventional production process of Laser Cutting.        |
+| [--]() | --          |
+| [--]() | --         |
+| [--]() | --          |
 
 ## Final Project Development
-
+For our [final Project]() we will embark on addressing and challenging the status quo on some key issues pertaining to LDC's (Low Developing Countries) and STI (Science, Technology and Innovation). 
 ## Special Thanks
+Special thanks goes to our instructor for this course, Bob Wu and all the help rendered during the projects. The UNTB (United Nations Technology Bank for Least Developed Countries), WEDC (the World Eco-Design Conference) and Zhejiang University for Making this program possible.

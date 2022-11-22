@@ -1,6 +1,5 @@
 # Amir Ubed 
-> Hi there! You can call me Ivy.
-![](image link)
+> Awaiting information
 <p align="center">Professional Summary</p>
 <p align="center">
 

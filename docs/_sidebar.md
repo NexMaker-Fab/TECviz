@@ -1,15 +1,18 @@
 <!-- 侧边栏 docs/_sidebar.md -->
-- **Team introduction**
+- **Introduction**
   - [Introduction to Design Engineering](intro/introdesigneng.md)
-  - [Team Introduction](intro/team/intro.md)
+  - [Team Introduction](1pm/web.md#coverpage)
 - **Weekly Homework**
-  - [1. Project Management](1pm/guide.md)
-    - [Introduce team](intro/team/intro.md)
+  - [1. Project Management](1pm/web.md)
+    - [Introduce team](1pm/web.md)
     - [How we built our webpage](1pm/web.md)
-    - [Introduce Final Project](1pm/final.md)
+    - [Introduce Final Project](finalproject.md)
   - [2. Computer Aided Design (CAD)](cad/cadprojects.md)
+    - [Ivan](cad/cadprojects.md)
+    - [Peter Mulenga](cad/cadprojects.md#3d-model)
+    - [Safin](cad/cadprojects.md)
   - [3. 3D Printing](3dprinting/3d.md)
-  - [4. Computer Controlled Cutting]()
+  - [4. Computer Controlled Cutting](computercontrolledcutting/lazercutting.md)
 
 - **Final Project**
   - [Topic](finalproject.md#Topic)
