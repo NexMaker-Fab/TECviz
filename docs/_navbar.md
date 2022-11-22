@@ -1,3 +1,4 @@
+* [Home](README.md)
 * Team Members
 
   * [PETER MULENGA](intro/team/peter.md)
@@ -6,5 +7,4 @@
   * [DEAN LUBILO](intro/team/dean.md)
   * [AMIR UBED](intro/team/amir.md)
   * [IVAN ALEJAJANDRO BROCHE](intro/team/ivan.md)
-  * [IVONILDE OLIVEIRA](intro/team/ivonilde.md)
   * [JEFFREY](intro/team/jeffrey.md)
