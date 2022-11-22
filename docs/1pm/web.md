@@ -191,7 +191,6 @@ Alternatively, you can create a custom markdown-based navigation file by setting
 <!-- _navbar.md -->
 
 * [En](/)
-* [chinese](/zh-cn/)
 ```
 
 !> You need to create a `.nojekyll` in `./docs` to prevent GitHub Pages from ignoring files that begin with an underscore.
