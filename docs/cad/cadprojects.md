@@ -9,14 +9,11 @@
 | [--](https://github.com/docpress/docpress) | --          |
 
 ?> CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e439439c5bfdf9cc33f?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895137&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='400' height='355'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895137'>Download</a>
-
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895137&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895137'></a>
 
 ## ARM
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43b02e45be18d69451?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895139&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895139'></a>
 
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/0CqbN9n/2.png)
@@ -42,7 +39,7 @@
 
 ## SUPPORT
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43f8c0d99b51187597?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895148&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895148'></a>
 
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/0CqbN9n/2.png)
@@ -72,7 +69,7 @@
 ![](https://i.ibb.co/tJJ4wLK/26.png)
 ## THREADED SHAFT BASE
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43a8aaf59df55c9746?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895147&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895147'></a>
 
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/0DD2KFC/1.png)
@@ -98,31 +95,31 @@
 ![](https://i.ibb.co/r3BCR7q/20.png)
 ## HINGE
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e432f419d2a8f4ba348?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895143&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895143'></a>
 
 ## HANDLE
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43f22a5e4c43188061?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895141&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895141'></a>
 
 ## HINGE B
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e433b9397cb11b08f2d?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895142&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895142'></a>
 
 ## PIN A
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43dc73f1c2e1516777?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895144&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895144'></a>
 
 ## PIN B
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43485f41f7b9ec2d5d?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895145&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895145'></a>
 
 ## PIN C
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e430493b453d3c88f43?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895146&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895146'></a>
 
 # FULL ASSEMBLY
 ### 3D MODEL
-<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e439439c5bfdf9cc33f?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895137&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895137'></a>
 
 ### MODELLING PROCEDURE
 >![](https://i.ibb.co/HF1ymKy/1.png)
