@@ -10,20 +10,22 @@
 
 
 
-# Introduction
+# INTRODUCTION
+We used Docsify to write our website using the Markup language Format and Github to build and deploy the page. Before we could do this, we first installed Microsoft visual Code, Git and then created an account on github to manage and maintaain the page. A repository was made for the group to effectively collaborate and maintain the flow of information.
+
 # Steps
-  
-?> Install `docsify`
-+ Enter the following in the command terminal: ``` npm i docsify-cli -g```
-- You need to create a project folder first, here I use the folder cloned from `github repository`[Tutorial step2](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html).  
+## Preparation
+?> Installing `docsify`
++ We entered the following in the command terminal: ``` npm i docsify-cli -g```
++ this command installs `docsify-cli` globally, which helps initializing and previewing the website locally.
+
+- We created a project folder first, by cloning from the `github repository`.  
 - Then Enter the `cd` command into the folder path in `cmd.exe`. You can also drag the folder into the exe, and it will automatically generate the path, as shown in the following figure. 
->![](https://i.ibb.co/v1YvWDD/24.png)
+>![]()
 
 ?> Install `node.js`
 Before installing `docsify`, we need to install the `npm` package manager, and the installation of `node.js` will automatically install `npm`.
-### Installation  
-- Download the installation program from [the official website](https://nodejs.org/en/).  
-- Double click the downloaded exe to install it.Next step is the next step until it is completed.
+
 ### verification
 - Open the `cmd`command line and enter `node -v`.  
 - If the node version is displayed, the nodejs installation is successful, as shown in the following figure.  
@@ -44,15 +46,11 @@ You need to hang a cmd service to modify the document before it can be updated t
 
 ## Image upload Service
 - [image upload Service](https://petyr.imgbb.com/)
-We use picgo+github to load images.
-- The tutorial is at this [link](https://www.nexmaker.com/doc/1projectmanage/imageuploadservice.html).  
-What i want to emphasize is 2 points.  
-1.In the step to generate a new token ,the following boxes must be chosen, otherwise the images cannot be uploaded.  
-image  
-2.When the token has been generated, you must copy the token at time, otherwise the token would not be found again.
+We used imgbb.com to load images.
+Which only required creating a free account on the website and uploading the images.
 
 # Setting up `index.html`
-Copy the following code into `index.html` for overwriting
+The following code was copied into `index.html`
 ```
 <!DOCTYPE html>
 <html lang="en">
