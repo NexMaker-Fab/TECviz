@@ -7,43 +7,80 @@
 | [--](https://github.com/docpress/docpress) | --          |
 | [--](https://github.com/docpress/docpress) | --          |
 | [--](https://github.com/docpress/docpress) | --          |
+## SOLIDWORKS
+![](https://i.ibb.co/xXTxX7z/solidworks-social-12.jpg)
+![](https://i.ibb.co/Bf47qV9/unnamed.jpg)
 
 ## PETER
+<a href="https://ibb.co/zs0YLvd"><img src="https://i.ibb.co/WnYwdJC/ARM-Team1.jpg" alt="ARM-Team1" border="0" /></a>
 ?> CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
 <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895137&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895137'></a>
 
 ## ARM
 ### 3D MODEL
 <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895139&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895139'></a>
+<embed src="docs/_media/ARM-Team1.pdf" type="application/pdf">
+The dimensions of the part used are shown below.
+
+![](https://i.ibb.co/1sYx8z3/ARM-Team1.png)
+
+> To prove familiarity with the software, for this part, the Units used were metric whereas the rest of the drawings were made using imperial.
 
 ### MODELLING PROCEDURE
->![](https://i.ibb.co/0CqbN9n/2.png)
+Before creating a geometry model, we must have a global coordinate system in mind. In this case, the origin for the arm is picked for the first circle as shown. Double-click the Solidworks button to launch. From the Solidworks user interface click on new to start a new part.
+![](https://i.ibb.co/xgnyXx0/cad1.png)
+![](https://i.ibb.co/1bFWhrm/cad1edited.png)
+![](https://i.ibb.co/p1SG00C/step-2.png)
+Select the Sketch toolbar from the user interface.
+![](https://i.ibb.co/0CqbN9n/2.png)
+Choose the Front plane as shown.
 ![](https://i.ibb.co/740M0rc/step5.png)
+This leads you to the screen below with the origin shown in red.
 ![](https://i.ibb.co/q1HJy3S/step7.png)
+Draw the first circle of any radius about the origin. 
 ![](https://i.ibb.co/ch1vJzW/step8.png)
+The blue outline around the circle means that the circle has not been fully defined.
 ![](https://i.ibb.co/k68m2tS/step9.png)
+Draw a second circle with a center any distance from the first. Fully define this distance with the smart dimension feature. Move the cursor around the X-axis until an Inference Line appears. Click to define the center, move away, and click again to define an arbitrary diameter. Click the two center points one after another and then move the mouse upward and click again to create this horizontal dimension; type 1.375 (in).
 ![](https://i.ibb.co/StFBhHw/step10.png)
+Use the smart dimension feature to fully define the first circle diameter.
 ![](https://i.ibb.co/7STcjN6/step11.png)
+Do the same for the second circle.
 ![](https://i.ibb.co/1QB0kkk/step12.png)
+Add a third circle with a fixed distance from the first circle.
 ![](https://i.ibb.co/bKfSGF1/step13.png)
+And fully define the distance using smart dimension. 
 ![](https://i.ibb.co/YBWK2V7/step14.png)
 ![](https://i.ibb.co/smR73qb/step15.png)
+Use Circle command to draw three circles which are concentric with the first three circles respectively.
 ![](https://i.ibb.co/7GL2CV0/step16.png)
+Click the upper quarter-point of the first circle and click the upper quarter-point of the second circle. Double-click to end the line drawing.
+And also draw two tangent lines to the third circle. Note that, to draw the tangent lines, you click  a circle NEAR quarter-points (rather than AT quarter-points). For these two tangent lines, the tangent points are not at quarter-points. 
 ![](https://i.ibb.co/4jFBw4x/step17.png)
+Press ESC to dismiss the Line command. Select Trim Entities from the Context Menu. In the Property Box, select Trim to closest.
 ![](https://i.ibb.co/p2wDN5D/step18.png)
+Press ESC to dismiss Smart Dimension. Select Sketch Fillet from the Context Menu. And then select the sharp corner from the trim
 ![](https://i.ibb.co/G9Cj91p/step19.png)
+Exit the sketch function.
 ![](https://i.ibb.co/Kh7qDzj/step20.png)
+Select the sketch and choose the extrude function from the user interface.
 ![](https://i.ibb.co/Kh7qDzj/step20.png)
 ![](https://i.ibb.co/kqB7HNf/step21.png)
+An additional feature for the extrude function appears with unspecified thickness.
 ![](https://i.ibb.co/DVd5R7n/step22.png)
+Enter the thickness size to complete the part
 ![](https://i.ibb.co/DQj4pLr/step23.png)
+
+The same or similar procedure is used to complete the rest of the parts for the assembly.
 
 ## SUPPORT
 ### 3D MODEL
 <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895148&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895148'></a>
 
 ### MODELLING PROCEDURE
+STEP 1
 >![](https://i.ibb.co/0CqbN9n/2.png)
+STEP 2
 ![](https://i.ibb.co/6WZBdbZ/3.png)
 ![](https://i.ibb.co/bFsKntv/4.png)
 ![](https://i.ibb.co/7zKnbRz/5.png)
