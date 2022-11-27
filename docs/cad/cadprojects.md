@@ -12,7 +12,6 @@
 ![](https://i.ibb.co/Bf47qV9/unnamed.jpg)
 
 ## PETER
-<a href="https://ibb.co/zs0YLvd"><img src="https://i.ibb.co/WnYwdJC/ARM-Team1.jpg" alt="ARM-Team1" border="0" /></a>
 ?> CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
 <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895137&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895137'></a>
 
@@ -20,8 +19,9 @@
 ### 3D MODEL
 <iframe scrolling='no' frameborder='0' allowfullscreen='true' src='https://www.3dcontentcentral.com/external-site-embed.aspx?format=3D&catalogid=171&modelid=1895139&width=250&height=250&edraw=true' name='PreviewFrame3D' id='PreviewFrame3D' width='1024' height='768'></iframe><br/><a href='https://www.3dcontentcentral.com/download-model.aspx?catalogid=171&id=1895139'></a>
 <embed src="docs/_media/ARM-Team1.pdf" type="application/pdf">
-The dimensions of the part used are shown below.
 
+The dimensions of the part used are shown below.
+<a href="https://ibb.co/zs0YLvd"><img src="https://i.ibb.co/WnYwdJC/ARM-Team1.jpg" alt="ARM-Team1" border="0" /></a>
 ![](https://i.ibb.co/1sYx8z3/ARM-Team1.png)
 
 > To prove familiarity with the software, for this part, the Units used were metric whereas the rest of the drawings were made using imperial.
