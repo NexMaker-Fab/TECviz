@@ -8,7 +8,30 @@
 | [--](https://github.com/docpress/docpress) | --          |
 | [--](https://github.com/docpress/docpress) | --          |
 ## SOLIDWORKS
+SOLIDWORKS is used by millions of designers and engineers at hundreds of thousands of companies. It’s one of the most popular design and engineering software on the market. Known for its range of features and high functionality, SOLIDWORKS is used across multiple professions and industries around the world.
 ![](https://i.ibb.co/xXTxX7z/solidworks-social-12.jpg)
+SOLIDWORKS uses parametric design, which is why it’s such an effective tool for designers and engineers. This means that the designer can see how changes will affect its neighboring components, or even the overall solution. For example, if the size of a single component is increased, this would affect the joint or hole it’s attached to. This allows designers to spot and correct issues quickly and easily.
+SOLIDWORKS Features Simple but sophisticated 3D CAD design Use templates and the CAD library for improved efficiency Automation and design reuse to speed up the process Cost estimation tools allow you to keep track in real-time Ensure potential risks are caught early with interference check Quickly produce 2D drawings for production Easily create animations and photorealistic renderings
+
+Which Professions and Industries Benefit from SOLIDWORKS?
+Industries:
+
+    Aerospace & Defense
+    Consumer Packaged Goods
+    Life Sciences
+    Transport & Mobility
+    Energy, Process, & Utilities
+Professions:
+    Mechanical engineers
+    Product engineers
+    Designers
+    Drafters
+    Planners
+    Artists & Graphical Illustrators
+    Architects
+    Electrical engineers
+    Process & Piping engineers (P&ID)
+
 ![](https://i.ibb.co/Bf47qV9/unnamed.jpg)
 
 ## PETER
