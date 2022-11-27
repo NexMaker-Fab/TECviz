@@ -14,23 +14,24 @@ SOLIDWORKS uses parametric design, which is why it’s such an effective tool fo
 SOLIDWORKS Features Simple but sophisticated 3D CAD design Use templates and the CAD library for improved efficiency Automation and design reuse to speed up the process Cost estimation tools allow you to keep track in real-time Ensure potential risks are caught early with interference check Quickly produce 2D drawings for production Easily create animations and photorealistic renderings
 
 Which Professions and Industries Benefit from SOLIDWORKS?
-Industries:
+> Industries:
+* Aerospace & Defense
+* Consumer Packaged Goods
+* Life Sciences
+* Transport & Mobility
+* Energy, Process, & Utilities
 
-    Aerospace & Defense
-    Consumer Packaged Goods
-    Life Sciences
-    Transport & Mobility
-    Energy, Process, & Utilities
-Professions:
-    Mechanical engineers
-    Product engineers
-    Designers
-    Drafters
-    Planners
-    Artists & Graphical Illustrators
-    Architects
-    Electrical engineers
-    Process & Piping engineers (P&ID)
+> Professions:
+
+* Mechanical engineers
+* Product engineers
+* Designers
+* Drafters
+* Planners
+* Artists & Graphical Illustrators
+* Architects
+* Electrical engineers
+* Process & Piping engineers (P&ID)
 
 ![](https://i.ibb.co/Bf47qV9/unnamed.jpg)
 
@@ -44,7 +45,6 @@ Professions:
 <embed src="docs/_media/ARM-Team1.pdf" type="application/pdf">
 
 The dimensions of the part used are shown below.
-<a href="https://ibb.co/zs0YLvd"><img src="https://i.ibb.co/WnYwdJC/ARM-Team1.jpg" alt="ARM-Team1" border="0" /></a>
 ![](https://i.ibb.co/1sYx8z3/ARM-Team1.png)
 
 > To prove familiarity with the software, for this part, the Units used were metric whereas the rest of the drawings were made using imperial.
