@@ -10,13 +10,15 @@
 
 
 # INTRODUCTION
-We used Docsify to write our website using the Markdown language Format and Github to build and deploy the page. Before we could do this, we first installed Microsoft visual Code, Git and then created an account on github to manage and maintaain the page. A repository was made for the group to effectively collaborate and maintain the flow of information.
+We used Docsify to write our website using the Markdown language Format and Github to build and deploy the page. Before we could do this, we first installed Microsoft visual Code, Git, Github Desktop and then created an account on github to manage and maintain the page. A repository was made for the group to effectively collaborate and maintain the flow of information.
 ![alt text](https://i.ibb.co/wRbHbSM/Image-1.png)
 ![alt text](https://i.ibb.co/bWd0msG/Image-2.png)
 ![alt text](https://i.ibb.co/n31jsp3/Image-3.png)
 
 # Steps
 ## Preparation
+- We created a project folder first, by cloning from the `github repository`.  
+
 ?> Installing `docsify`
 + We entered the following in the command terminal: ``` npm i docsify-cli -g```
 + this command installs `docsify-cli` globally, which helps initializing and previewing the website locally.
@@ -25,17 +27,19 @@ After typing the code, we had this pop up window
 ![alt text](https://i.ibb.co/khCBp9s/image-5.png)
 magnified
 ![alt text](https://i.ibb.co/JFHK4sY/image-6.png)
+This is due to to absense of node js; so we installed from the main website. 
 
-- We created a project folder first, by cloning from the `github repository`.  
-- Then Enter the `cd` command into the folder path in `cmd.exe`. You can also drag the folder into the exe, and it will automatically generate the path, as shown in the following figure. 
->![]()
-?> Install `node.js`
-Before installing `docsify`, we need to install the `npm` package manager, and the installation of `node.js` will automatically install `npm`.
+!> Before installing `docsify`, we need to install the 
+`npm` package manager.
 
-### verification
-- Open the `cmd`command line and enter `node -v`.  
-- If the node version is displayed, the nodejs installation is successful, as shown in the following figure.  
- ### Initialize
+To verify that node js is installed type `node -v` in the command terminal, which should display the version number
+![alt text](https://i.ibb.co/SsmCT7P/image-7.png)
+Install npm by typing `npm instal -g npm` into the command terminal
+![alt text](https://i.ibb.co/MByWnkT/image-8.png)
+In visual studio, type `npm i docsify-cli -g` in the command terminal to install `docsify-cli`.
+![alt text](https://i.ibb.co/HPGj2Y4/image-9.png)
+
+ ## Initialize
 - Enter the following in command terminal: ```docsify init ./docs```  
 - After successful initialization, you can see several files created in the directory：  
   - `index.html`:Entry File.  
