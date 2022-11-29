@@ -1,5 +1,4 @@
 # Safin Rahman 
-> Hi there! You can call me.
 ![](https://i.ibb.co/mv1GSFG/safin-1.png)
 <p align="center">Professional Summary</p>
 <p align="center">

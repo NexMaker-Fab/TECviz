@@ -4,8 +4,8 @@
   * [PETER MULENGA](intro/team/peter.md)
   * [SAFIN RAHMAN](intro/team/safin.md)
   * [AZAD MD TARIQUZZAMAN](intro/team/azad.md)
-  * [DEAN LUBILO](intro/team/dean.md)
   * [AMIR UBED](intro/team/amir.md)
+  * [DEAN LUBILO](intro/team/dean.md)
   * [JEFFREY](intro/team/jeffrey.md)
 
 
@@ -128,6 +128,7 @@ The sidebar and its contraction, cover page and search bar will be described in 
 
 ```  
 > sidebar.md in ms visual code
+
 ![alt text](https://i.ibb.co/J3pm6P9/image-11.png)
 
 # Coverpage

@@ -1,5 +1,5 @@
 # MD TARIQUZZAMAN AZAD
-> Student of ZJU, Department of IDE
+Student of ZJU, Department of IDE
 ![](https://i.ibb.co/wWqPDZX/azad.jpg)
 <p align="center">Professional Summary</p>
 <p align="center">

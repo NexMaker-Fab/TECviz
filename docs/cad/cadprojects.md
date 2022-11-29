@@ -11,15 +11,23 @@
 
 
 # FUSION 360
+
+
+Fusion 360 is a cloud-based 3D modeling, CAD, CAM, CAE, and PCB software platform for professional product design and manufacturing.
+> Fusion 360 is the first and only integrated cloud CAD, CAM, CAE, and PCB product development solution for product designers, mechanical engineers, electronics engineers, and machinists. It allows you to connect your entire design to manufacture product development process to deliver high-quality products to market faster and positively impact your bottom line. It includes generative design, 2.5, 3, 4, & 5-axis machining, and advanced simulation and is available on PC and Mac.
+Fusion 360 is based on another product of Autodesk,  the Inventor, a user-friendly design and simulation program that also houses tools for creating models and assemblies. Then the company released an even more successful and modern piece of software — Fusion 360, which is mainly cloud-based and capable of enabling group access to projects and cloud storage. It was an innovative solution, and the process of creating the interface was mainly inspired by users feedback, while some of the options and add-ons were integrated after software engineers and active users joined efforts. One of the key features of Fusion 360 is combining all of the stages of creating 3D parts and designs, from a prototype to a finished product, in a single sustainable workflow.   
+
+Key features include the program not only supporting cloud storage but also a cloud render, which can be accessed by users with slow computers for “credits” — a kind of internal software currency earned by active use of the program.
+As already described above, group access is something that no software has ever offered. Publicly shared access to file settings, a separate file storage folder, file versions are just a part of what Fusion 360 has to offer to streamline project management.
+Another feature of Fusion 360, no longer unique, is scripting. But these are not just the usual scripts we’re used to working with in Solidworks or Inventor, which utilize the model’s parametricity, assemblies and their parts as well as animation parameters. Autodesk introduced a dedicated section on their website, where anyone can download a template that will help speed up the design workflow.
+Another noteworthy feature is that the program does not consume much computer resources and works using an online connection. The installation file is relatively small and takes up little hard drive memory, compared to other Autodesk programs, while installation usually takes about five minutes.
+
+At first, Fusion 360 got a lot of backlash for its cloud-based limitations, with some users refusing to switch from Inventor to Fusion, fearing potential file leaks and that the program would not function offline. This issue is solved by engaging offline mode, when all changes and the file itself are saved on your local computer while the software continues to function with no Internet connection.
 ## IVAN
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4328f33d5ea1510011?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4372497414b72f9f84?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Safin
-<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8f36976a8ceb2c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8cd4adadac2939?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 <iframe src="https://myzju321.autodesk360.com/shares/public/SH9285eQTcf875d3c539cfb51cd2e89bc126?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## AMIR
@@ -29,8 +37,10 @@
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e436bdef41217f57a8a?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Dean
+<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8f36976a8ceb2c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Jeffery
+<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8cd4adadac2939?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 # SOLIDWORKS
