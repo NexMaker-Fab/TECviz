@@ -1,6 +1,6 @@
 # Safin Rahman 
 > Hi there! You can call me.
-![](image link)
+![](https://i.ibb.co/mv1GSFG/safin-1.png)
 <p align="center">Professional Summary</p>
 <p align="center">
 My name is Safin rahman. I am a CSE graduate from SWFU. I graduated in December 2021. SWFU is a reputed university in Kunming, China. During my course, I had the opportunity to study with a coursework of various subjects which include Engineering subjects and modules. The modules included not only basics of the courses but also the advanced modules of the courses. I had the opportunity to harness
@@ -24,5 +24,4 @@ I'm excited to find my first project position for the coming year on Design Engi
 </p>
 <p align="center">Team Role</p>
 <p align="center">
-
 </p>

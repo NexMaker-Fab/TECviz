@@ -8,7 +8,7 @@
 | [Web Page](1pm/web.md)       |  Some highlights on how we designed and developed the website. |
 | [CAD](cad/cadprojects.md)       |  A collection of CAD designs we uploaded for practice. |
 | [3D Printing](3dprinting/3d.md) | A tutorial Demonstrating 3D printing in industry.        |
-| [Laser Cutting](computercontrolledcutting/lazercutting.md) | A demonstration of the CNC (Computer Numerical Control) in the Non-conventional production process of Laser Cutting.        |
+| [--](computercontrolledcutting/lazercutting.md) |   --  |
 | [--]() | --          |
 | [--]() | --         |
 | [--]() | --          |

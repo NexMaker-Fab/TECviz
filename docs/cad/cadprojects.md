@@ -1,18 +1,39 @@
 ## Individual Projects
 | Project                                          | Description                              |
 | ------------------------------------------------ | ---------------------------------------- |
-| [Clamp Assembly-Peter Mulenga](#peter)       |  A CAD model drawn by Peter Mulenga |
-| [Safin Rahman](#safin) | --         |
-|  | --          |
-| [--](https://github.com/docpress/docpress) | --          |
-| [--](https://github.com/docpress/docpress) | --          |
-| [--](https://github.com/docpress/docpress) | --          |
+| [Peter Mulenga](#peter)       |  Clamp Assembly using Solidworks|
+| [Ivan](#ivan) | Lamp Using Fusion 360       |
+| [Safin Rahman](#safin) | 3D Model using Fusion 360       |
+| [Amir Ubed](#amir) | Laptop Fan Using Fusion 360         |
+| [Azad](#azad) | 3D Model Using Fusion 360        |
+| [Dean Lubilo](#dean) | 3D Model Using Fusion 360        |
+| [Jeffery](#jeffery)| 3D Model Using Fusion 360         |
 
+
+# FUSION 360
 ## IVAN
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4328f33d5ea1510011?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 <iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e4372497414b72f9f84?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## SOLIDWORKS
+## Safin
+<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8f36976a8ceb2c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8cd4adadac2939?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+<iframe src="https://myzju321.autodesk360.com/shares/public/SH9285eQTcf875d3c539cfb51cd2e89bc126?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## AMIR
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e43f601b01278ee137e?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## AZAD
+<iframe src="https://myhub.autodesk360.com/ue28cacf9/shares/public/SH35dfcQT936092f0e436bdef41217f57a8a?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Dean
+
+## Jeffery
+
+
+# SOLIDWORKS
 SOLIDWORKS is used by millions of designers and engineers at hundreds of thousands of companies. It’s one of the most popular design and engineering software on the market. Known for its range of features and high functionality, SOLIDWORKS is used across multiple professions and industries around the world.
 ![](https://i.ibb.co/xXTxX7z/solidworks-social-12.jpg)
 SOLIDWORKS uses parametric design, which is why it’s such an effective tool for designers and engineers. This means that the designer can see how changes will affect its neighboring components, or even the overall solution. For example, if the size of a single component is increased, this would affect the joint or hole it’s attached to. This allows designers to spot and correct issues quickly and easily.
@@ -214,10 +235,3 @@ STEP 2
 ![](https://i.ibb.co/v1YvWDD/24.png)
 ![](https://i.ibb.co/4Vnf5Db/25.png)
 ![](https://i.ibb.co/bd1mvb7/26.png)
-
-## Safin
-<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8f36976a8ceb2c?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-<iframe src="https://myhub.autodesk360.com/ue2fba46a/shares/public/SH9285eQTcf875d3c539ac8cd4adadac2939?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
-<iframe src="https://myzju321.autodesk360.com/shares/public/SH9285eQTcf875d3c539cfb51cd2e89bc126?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
