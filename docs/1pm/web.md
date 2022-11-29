@@ -34,7 +34,7 @@ This is due to to absense of node js; so we installed from the main website.
 
 To verify that node js is installed type `node -v` in the command terminal, which should display the version number
 ![alt text](https://i.ibb.co/SsmCT7P/image-7.png)
-Install npm by typing `npm instal -g npm` into the command terminal
+Install npm by typing `npm install -g npm` into the command terminal
 ![alt text](https://i.ibb.co/MByWnkT/image-8.png)
 In visual studio, type `npm i docsify-cli -g` in the command terminal to install `docsify-cli`.
 ![alt text](https://i.ibb.co/HPGj2Y4/image-9.png)
@@ -42,21 +42,17 @@ In visual studio, type `npm i docsify-cli -g` in the command terminal to install
  ## Initialize
 - Enter the following in command terminal: ```docsify init ./docs```  
 - After successful initialization, you can see several files created in the directory：  
-  - `index.html`:Entry File.  
-  - `README.md`:It will be rendered as the homepage content.  
-  - `.nojekyll`: is Used to prevent GitHub Pages from ignoring files that begin with an underscore.
+  * `index.html`:Entry File.  
+  * `README.md`:It will be rendered as the homepage content.  
+  * `.nojekyll`: is Used to prevent GitHub Pages from ignoring files that begin with an underscore.
 
-### Preview
-Enter the following in cmd.exe:``` docsify serve docs```  
-You will get the following results.   
-![]()
-Then opern browser to visit http://localhost:3000, you will get a initial website.   
-What i want to emphasize is that :  
-You need to hang a cmd service to modify the document before it can be updated to the website.
+## Web Preview
+A plugin called live preview was downloaded in visual code to view the code as we worked and host it on different browers for testing, all from visual studio.
+![alt text](https://i.ibb.co/MSZWcC5/image-10.png)
 
 ## Image upload Service
-- [image upload Service](https://petyr.imgbb.com/)
-We used imgbb.com to load images.
+- For the [image upload Service](https://petyr.imgbb.com/)
+, we used imgbb.com to load images.
 Which only required creating a free account on the website and uploading the images.
 
 # Setting up `index.html`
@@ -66,7 +62,7 @@ The following code was copied into `index.html`
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>TEAM ONE</title>
+  <title>TECviz</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -76,7 +72,7 @@ The following code was copied into `index.html`
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'TEAM PROJECTS',
+      name: 'PROJECTS',
       repo: '',
       loadSidebar: true,
       loadNavbar: true,
@@ -95,7 +91,7 @@ The following code was copied into `index.html`
   </script>
   <!-- Docsify v4 -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 
 </body>
 </html>
@@ -104,86 +100,60 @@ The following code was copied into `index.html`
 The sidebar and its contraction, cover page and search bar will be described in the following steps.
 
 # Setting sidebar
-+ Configure sidebar
->![](image link) 
-- The code in the image above modify the `index.html` configuration file to configure the `loadSidebar` option.
++ In order to have a sidebar, you can create your own _sidebar.md, First, you need to set loadSidebar in the html file to true
 + create `_sidebar.md` 
-- Create folders and files as shown in the picture:  
->![](image link)  
-- Copy the following code into `_sidebar.md`  
-See this link for usage of the `markdown` language: [link](https://www.runoob.com/markdown/md-image.html)  
+- Copy the following code into `_sidebar.md` 
 
 ```
 <!-- 侧边栏 docs/_sidebar.md -->
-- **Team introduction**
+- **Introduction**
   - [Introduction to Design Engineering](intro/introdesigneng.md)
-  - [Team Introduction](team/intro.md)
+  - [Team Introduction](1pm/web.md#coverpage)
 - **Weekly Homework**
-  - [1. Project Management](1pm/guide.md)
-    - [-How to build web](1pm/web.md)
-    - [-Introduce team](team/intro.md)
-    - [-Introduce Final Project](1pm/final.md)
-  - [2. Computer Aided Design (CAD)]()
-  - [3. Arduino Basic]()
-  - [4. 3D Printing]()
-  - [5. Computer Controlled Cutting (CNC)]()
-  - [6. Open source hardware and Arduino basic]()
-  - [7. Interface application programming]()
+  - [1. Project Management](1pm/web.md)
+    - [Introduce team](1pm/web.md)
+    - [How we built our webpage](1pm/web.md)
+    - [Introduce Final Project](finalproject.md)
+  - [2. Computer Aided Design (CAD)](cad/cadprojects.md)
+  - [3. 3D Printing](3dprinting/3d.md)
+  - [4. Computer Controlled Cutting](computercontrolledcutting/lazercutting.md)
+
 - **Final Project**
-  - [Topic]()
-  - [Innovation]()
-  - [Market]()
-  - [How to Design]()
-  - [How to Make]()
-  - [SDGs]()
+  - [Topic](finalproject.md#Topic)
+  - [Innovation](finalproject.md#Innovation)
+  - [Market](finalproject.md#Market)
+  - [Design](finalproject.md#Design)
+  - [Manufacturing](finalproject.md#Manufacturing)
+  - [SDGs](finalproject.md#SDGs)
+
 ```  
+> sidebar.md in ms visual code
+![alt text](https://i.ibb.co/J3pm6P9/image-11.png)
+
 # Coverpage
 - Configure the coverpage parameter in `index.html` to open the coverpage. Usually, the cover page and the first page appear at the same time. After `onlyCover=true` is set, the cover page becomes an independent cover page.  
-- The code settings in the following figure play such a role:  
->![](image link)  
-
 - Add the profile `_coverpage.md` to configure the coverpage, the code and rendering are as follows:  
-```
-![logo](_media/icon.svg)
 
-# TEAM ONE  
+```
+![logo](_media/icon.svg ':size=20%')  
 > Welcome to Design Engineering 2022 
 * DESIGN
-* INNOVATION
+* ENGINEERING
 * BUSINESS
 [Github](https://github.com/NexMaker-Fab/2022zjudem-team1/tree/main)
 [Course Work](./README.md)
-[Project](finalproject/finalproject.md)
+[Project](finalproject.md)
+
 ```
->![](image link of cover page)
+> Preview of cover page
+>![](https://i.ibb.co/pxth2nP/image-12.png)
 
 # Setting search bar
-- Configure search bar in `index.html` as following  
->![](image link)
+- Configure search bar in `index.html` as follows  
+>![alt text](https://i.ibb.co/xY6Mpbs/image-13.png)
 
-# Setting up the Custom navbar
-
-## HTML
-
-If you need custom navigation, you can create a HTML-based navigation bar.
-
-!> Note that documentation links begin with `#/`.
-
-```html
-<!-- index.html -->
-
-<body>
-  <nav>
-    <a href="#/">EN</a>
-    <a href="#/zh-cn/">简体中文</a>
-  </nav>
-  <div id="app"></div>
-</body>
-```
-
-## Markdown
-
-Alternatively, you can create a custom markdown-based navigation file by setting `loadNavbar` to **true** and creating `_navbar.md`, compare [loadNavbar configuration](configuration.md#loadnavbar).
+# Setting up the Custom navbar using Markdown
+You can create a custom markdown-based navigation file by setting `loadNavbar` to **true** and creating `_navbar.md`, compare [loadNavbar configuration](configuration.md#loadnavbar).
 
 ```html
 <!-- index.html -->
@@ -199,12 +169,20 @@ Alternatively, you can create a custom markdown-based navigation file by setting
 ```markdown
 <!-- _navbar.md -->
 
-* [En](/)
+* [Home](README.md)
+* Team Members
+  * [PETER MULENGA](intro/team/peter.md)
+  * [SAFIN RAHMAN](intro/team/safin/index.html)
+  * [AZAD MD TARIQUZZAMAN](intro/team/azad.md)
+  * [AMIR UBED](intro/team/amir.md)
+  * [IVAN ALEJAJANDRO BROCHE](intro/team/ivan.md)
+  * [DEAN LUBILO](intro/team/dean.md)  
+  * [JEFFREY](intro/team/jeffrey.md)
 ```
 
 !> You need to create a `.nojekyll` in `./docs` to prevent GitHub Pages from ignoring files that begin with an underscore.
 
-`_navbar.md` is loaded from each level directory. If the current directory doesn't have `_navbar.md`, it will fall back to the parent directory. If, for example, the current path is `/guide/quick-start`, the `_navbar.md` will be loaded from `/guide/_navbar.md`.
+!> `_navbar.md` is loaded from each level directory. If the current directory doesn't have `_navbar.md`, it will fall back to the parent directory. If, for example, the current path is `/guide/quick-start`, the `_navbar.md` will be loaded from `/guide/_navbar.md`.
 
 # Reference
 -[Docsify](https://docsify.js.org/#/quickstart) Quick start <br>
