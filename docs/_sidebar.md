@@ -1,7 +1,7 @@
 <!-- 侧边栏 docs/_sidebar.md -->
 - **Introduction**
-  - [Introduction to Design Engineering](intro/introdesigneng.md)
-  - [Team Introduction](1pm/web.md#coverpage)
+  - [Introduction to Design Engineering](introdesigneng.md)
+  - [Team Introduction](1pm/web.md#TeamIntroduction)
 - **Weekly Homework**
   - [1. Project Management](1pm/web.md)
     - [Introduce team](1pm/web.md)

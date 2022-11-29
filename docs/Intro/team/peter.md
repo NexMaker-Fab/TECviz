@@ -1,8 +1,6 @@
 # Peter Mulenga 
 > Team Role: Web designer, Content Management.
-![](https://i.ibb.co/FkrJN80/IMG-20220328-WA0000-ccexpress.jpg)
-<br><div class="loader"><img src="team/safin/safin(1).png" alt="#" /></div>
-<br>
+
 <br><div class="loader"><img src="https://i.ibb.co/FkrJN80/IMG-20220328-WA0000-ccexpress.jpg" alt="#" /></div>
 <br>
 <p align="center">Professional Summary</p>
@@ -11,7 +9,7 @@ My Name is Peter Mulenga. A highly trained and passionate Design Engineer with s
 </p>
 <p align="center">Hobbies</p>
 
-> * Reading
+* Reading
 * Movies
 * Documentaries
 >
