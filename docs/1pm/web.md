@@ -9,20 +9,26 @@
   * [JEFFREY](intro/team/jeffrey.md)
 
 
-
 # INTRODUCTION
-We used Docsify to write our website using the Markup language Format and Github to build and deploy the page. Before we could do this, we first installed Microsoft visual Code, Git and then created an account on github to manage and maintaain the page. A repository was made for the group to effectively collaborate and maintain the flow of information.
+We used Docsify to write our website using the Markdown language Format and Github to build and deploy the page. Before we could do this, we first installed Microsoft visual Code, Git and then created an account on github to manage and maintaain the page. A repository was made for the group to effectively collaborate and maintain the flow of information.
+![alt text](https://i.ibb.co/wRbHbSM/Image-1.png)
+![alt text](https://i.ibb.co/bWd0msG/Image-2.png)
+![alt text](https://i.ibb.co/n31jsp3/Image-3.png)
 
 # Steps
 ## Preparation
 ?> Installing `docsify`
 + We entered the following in the command terminal: ``` npm i docsify-cli -g```
 + this command installs `docsify-cli` globally, which helps initializing and previewing the website locally.
+![alt text](https://i.ibb.co/qpZFw25/Image-4.png)
+After typing the code, we had this pop up window
+![alt text](https://i.ibb.co/khCBp9s/image-5.png)
+magnified
+![alt text](https://i.ibb.co/JFHK4sY/image-6.png)
 
 - We created a project folder first, by cloning from the `github repository`.  
 - Then Enter the `cd` command into the folder path in `cmd.exe`. You can also drag the folder into the exe, and it will automatically generate the path, as shown in the following figure. 
 >![]()
-
 ?> Install `node.js`
 Before installing `docsify`, we need to install the `npm` package manager, and the installation of `node.js` will automatically install `npm`.
 
@@ -196,5 +202,6 @@ Alternatively, you can create a custom markdown-based navigation file by setting
 
 `_navbar.md` is loaded from each level directory. If the current directory doesn't have `_navbar.md`, it will fall back to the parent directory. If, for example, the current path is `/guide/quick-start`, the `_navbar.md` will be loaded from `/guide/_navbar.md`.
 
-# INTRODUCTION TO OUR PROJECT
->in progress
+# Reference
+-[Docsify](https://docsify.js.org/#/quickstart) Quick start <br>
+-[Nexmaker](https://www.nexmaker.com/doc/1projectmanage/github&docsify.html) Course assessment

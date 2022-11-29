@@ -35,7 +35,7 @@
 
 # SOLIDWORKS
 SOLIDWORKS is used by millions of designers and engineers at hundreds of thousands of companies. It’s one of the most popular design and engineering software on the market. Known for its range of features and high functionality, SOLIDWORKS is used across multiple professions and industries around the world.
-![](https://i.ibb.co/xXTxX7z/solidworks-social-12.jpg)
+<div class="loader"><img src="https://i.ibb.co/xXTxX7z/solidworks-social-12.jpg" alt="#" /></div>
 SOLIDWORKS uses parametric design, which is why it’s such an effective tool for designers and engineers. This means that the designer can see how changes will affect its neighboring components, or even the overall solution. For example, if the size of a single component is increased, this would affect the joint or hole it’s attached to. This allows designers to spot and correct issues quickly and easily.
 SOLIDWORKS Features Simple but sophisticated 3D CAD design Use templates and the CAD library for improved efficiency Automation and design reuse to speed up the process Cost estimation tools allow you to keep track in real-time Ensure potential risks are caught early with interference check Quickly produce 2D drawings for production Easily create animations and photorealistic renderings
 
@@ -58,8 +58,7 @@ Which Professions and Industries Benefit from SOLIDWORKS?
 * Architects
 * Electrical engineers
 * Process & Piping engineers (P&ID)
-
-![](https://i.ibb.co/Bf47qV9/unnamed.jpg)
+<div class="loader"><img src="https://i.ibb.co/Bf47qV9/unnamed.jpg" alt="#" /></div>
 
 ## PETER
 ?> CLAMP ASSEMBLY USING SOLIDWORKS 2022 (By Peter Mulenga)
@@ -78,7 +77,7 @@ The dimensions of the part used are shown below.
 ### MODELLING PROCEDURE
 Before creating a geometry model, we must have a global coordinate system in mind. In this case, the origin for the arm is picked for the first circle as shown. Double-click the Solidworks button to launch. From the Solidworks user interface click on new to start a new part.
 ![](https://i.ibb.co/xgnyXx0/cad1.png)
-![](https://i.ibb.co/1bFWhrm/cad1edited.png)
+![alt text](https://i.ibb.co/1bFWhrm/cad1edited.png)
 ![](https://i.ibb.co/p1SG00C/step-2.png)
 Select the Sketch toolbar from the user interface.
 ![](https://i.ibb.co/0CqbN9n/2.png)
