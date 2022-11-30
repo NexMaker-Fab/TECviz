@@ -12,5 +12,4 @@ Student of ZJU, Department of IDE
 </p>
 <p align="center">Team Role</p>
 <p align="center">
-<a href="#" class="btn">Get In Touch</a>
 </p>
