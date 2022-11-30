@@ -1,12 +1,3 @@
-* Team Members
-
-  * [PETER MULENGA](intro/team/peter.md)
-  * [SAFIN RAHMAN](intro/team/safin.md)
-  * [AZAD MD TARIQUZZAMAN](intro/team/azad.md)
-  * [AMIR UBED](intro/team/amir.md)
-  * [DEAN LUBILO](intro/team/dean.md)
-  * [JEFFREY](intro/team/jeffrey.md)
-
   <!DOCTYPE html>
 <html lang="en">
 
@@ -38,7 +29,7 @@
                 </div>
                 <div class="team-content">
                     <h3 class="title">Peter Mulenga</h3>
-                    <span class="post">Mechanical Design Engineer</span>
+<span class="post">Mechanical Design Engineer</span>
 
 [MORE DETAILS](intro/team/peter.md)
          
@@ -53,9 +44,10 @@
                 </div>
                 <div class="team-content">
                     <h3 class="title">SAFIN RAHMAN</h3>
-                    <span class="post">Software Engineer</span>
+<span class="post">Software Engineer</span>
                    
 [MORE DETAILS](intro/team/safin.md)
+
                 </div>
             </div>
         </div>
@@ -67,7 +59,7 @@
                 </div>
                 <div class="team-content">
                     <h3 class="title">AZAD MD TARIQUZZAMAN</h3>
-                    <span class="post">Software Engineer</span>
+<span class="post">Software Engineer</span>
 
 [MORE DETAILS](intro/team/azad.md) 
                 </div>
@@ -81,7 +73,7 @@
                 </div>
                 <div class="team-content">
                     <h3 class="title">AMIR UBED</h3>
-                    <span class="post">Computer Science Engineering</span>
+<span class="post">Computer Science Engineering</span>
 
 [MORE DETAILS](intro/team/amir.md)
                 </div>
