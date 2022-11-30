@@ -1,14 +1,3 @@
-# TEAM INTRODUCTION
-* Team Members
-
-  * [PETER MULENGA](intro/team/peter.md)
-  * [SAFIN RAHMAN](intro/team/safin.md)
-  * [AZAD MD TARIQUZZAMAN](intro/team/azad.md)
-  * [AMIR UBED](intro/team/amir.md)
-  * [DEAN LUBILO](intro/team/dean.md)
-  * [JEFFREY](intro/team/jeffrey.md)
-
-
 # INTRODUCTION
 We used Docsify to write our website using the Markdown language Format and Github to build and deploy the page. Before we could do this, we first installed Microsoft visual Code, Git, Github Desktop and then created an account on github to manage and maintain the page. A repository was made for the group to effectively collaborate and maintain the flow of information.
 ![alt text](https://i.ibb.co/wRbHbSM/Image-1.png)
