@@ -8,19 +8,16 @@
     <link rel="stylesheet" href="style.css">
     <title>TEAM INTRO</title>
     <link rel="stylesheet" href="teamstyle.css"/>
-
 </head>
 
 <body>
-    <div class="container">
-        <h1>TEAM INTRODUCTION</h1>
+<div class="container">
+<h1 align="center">TEAM INTRODUCTION</h1>
         <h2> We are a group of visionary Industrial Designers that aspire to drive innovation in our respective countries and challenge the status quo, by applying new design, engineering and business paradigms.</h2>
         <div class="demo">
         <div class="container">
             <div class="row text-center">
                 <h1 class="white"></h1>
-            </div>
-<div class="container">
     <div class="row">
         <div class="col-md-3 col-sm-6">
             <div class="our-team">
