@@ -1,7 +1,7 @@
 # Topic
 
 <br>
-<div class="loader"><<img src="https://i.ibb.co/wwDhCzX/Kazelight.jpg" alt="Kazelight" border="0" />/></div>
+<div class="loader"><img src="https://i.ibb.co/wwDhCzX/Kazelight.jpg" alt="Kazelight"/></div>
 
 >Kazegami is a small and stylish table lamp that doubles as an air quality monitor. It uses a combination of air sensors, light, wind and paper art to create a visually appealing and interactive experience for users.
 
