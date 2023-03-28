@@ -8,10 +8,15 @@
     - [Introduce Final Project](finalproject.md)
   - [2. Computer Aided Design (CAD)](cad/cadprojects.md)
   - [3. 3D Printing](3dprinting/3d.md)
+  - [4. Laser Cutting](computercontrolledcutting/lazercutting.md)
+  - [5. Arduino](3dprinting/3d.md)
+  - [6. Processing](3dprinting/3d.md)
 - **Final Project**
   - [Topic](finalproject.md#Topic)
+  - [SDGs](finalproject.md#SDGs)
+  - [User Research](finalproject.md#SDGs)
   - [Innovation](finalproject.md#Innovation)
   - [Market](finalproject.md#Market)
-  - [Design](finalproject.md#Design)
-  - [Manufacturing](finalproject.md#Manufacturing)
-  - [SDGs](finalproject.md#SDGs)
+  - [Design and Prototype](finalproject.md#Design)
+  - [Key Technology](finalproject.md#Manufacturing)
+  
