@@ -1,5 +1,5 @@
 # Amir Ubed 
-![](https://i.ibb.co/Jsw6wS7/l-QDPJxbqo4n-Xlif-NEADNDIKwc-Dd-Nl-YNUSh8-Dg-X-g50-Bh-AA-3202-4096.jpg)
+<br><div class="loader"><img src="https://i.ibb.co/Jsw6wS7/l-QDPJxbqo4n-Xlif-NEADNDIKwc-Dd-Nl-YNUSh8-Dg-X-g50-Bh-AA-3202-4096.jpg" alt="#" /></div>
 <p align="center">Professional Summary</p>
 <p align="center">
 I am Amir UBED from Morocco , I have obtained a degree in Computer Science Engineering and specialized in cybersecurity at the American university of professional studies , I am currently a Master student in Industrial Design Engineering at Zhejiang University 浙江大学

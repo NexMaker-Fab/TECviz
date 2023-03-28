@@ -28,7 +28,7 @@
                     <h3 class="title">Peter Mulenga</h3>
 <span class="post">Mechanical Design Engineer</span>
 
-[MORE DETAILS](intro/team/peter.md)
+[MORE DETAILS](Intro/peter.md)
          
                 </div>
             </div>
@@ -43,7 +43,25 @@
                     <h3 class="title">SAFIN RAHMAN</h3>
 <span class="post">Software Engineer</span>
                    
-[MORE DETAILS](intro/team/safin.md)
+[MORE DETAILS](Intro/safin.md)
+
+ </div>
+            </div>
+        </div>
+
+<div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="https://i.ibb.co/WHbLT6r/ivan-ok.jpg">
+                </div>
+                <div class="team-content">
+                    <h3 class="title">Ivan Alejandro Broche Sanchez</h3>
+<span class="post">Industrial Designer</span>
+
+[MORE DETAILS](Intro/ivan.md) 
+                </div>
+            </div>
+        </div>
 
                 </div>
             </div>
@@ -58,7 +76,7 @@
                     <h3 class="title">AZAD MD TARIQUZZAMAN</h3>
 <span class="post">Software Engineer</span>
 
-[MORE DETAILS](intro/team/azad.md) 
+[MORE DETAILS](Intro/azad.md) 
                 </div>
             </div>
         </div>
@@ -72,7 +90,7 @@
                     <h3 class="title">AMIR UBED</h3>
 <span class="post">Computer Science Engineering</span>
 
-[MORE DETAILS](intro/team/amir.md)
+[MORE DETAILS](Intro/amir.md)
                 </div>
             </div>
         </div>

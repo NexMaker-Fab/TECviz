@@ -1,5 +1,5 @@
 # Ivan Alejandro
-> Awaiting information
+<br><div class="loader"><img src="https://i.ibb.co/WHbLT6r/ivan-ok.jpg" alt="#" /></div>
 <p align="center">Professional Summary</p>
 <p align="center">
 Iván Alejandro Broche Sánchez
