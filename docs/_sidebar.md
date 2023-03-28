@@ -19,4 +19,3 @@
   - [Market](finalproject.md#Market)
   - [Design and Prototype](finalproject.md#Design)
   - [Key Technology](finalproject.md#Manufacturing)
-  
