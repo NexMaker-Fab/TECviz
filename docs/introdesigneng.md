@@ -1,9 +1,11 @@
 # Introduction to Design Engineering
 Design engineers are problem solvers who bridge the gap between traditional engineering and design. It's a discipline which draws on knowledge of manufacturing techniques, product development, technical design and rapid prototyping to bring new innovations to themarket. It also focuses on improving existing products and the processes used for making them.
-The field involves fundamental design and engineering skills, with a particular emphasis on creativity, computer-aided engineering, optimisation, human factors and design process. 
+<br>
+<br>The field involves fundamental design and engineering skills, with a particular emphasis on creativity, computer-aided engineering, optimisation, human factors and design process. 
 Design engineers use technical knowledge, mathematical expertise and design skills to create innovative solutions to problems across a range of industries.
 A Design Engineer is involved in the initial concept, design, development and management of projects in a range of sectors such as construction and the built environment, materials, software, components, machinery and vehicles.
-To succeed, a Design Engineer needs strong technical knowledge, as well as problem solving, communication, leadership and project management skills.
+<br>
+<br>To succeed, a Design Engineer needs strong technical knowledge, as well as problem solving, communication, leadership and project management skills.
 Depending on their specialist area, design engineers may also be known as CAD engineers, consulting engineers and product design engineers.
 
 > Types of design engineering
