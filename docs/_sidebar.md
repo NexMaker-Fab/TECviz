@@ -10,6 +10,8 @@
   - [3. 3D Printing](3dprinting/3d.md)
   - [4. Laser Cutting](computercontrolledcutting/lazercutting.md)
   - [5. Arduino](Arduino/arduino.md)
+    - [Basics](https://www.nexmaker.com/doc/5arduino/arduino_basic.html)
+    - [Homework](Arduino/arduino.md#environmental-monitoring-project)
   - [6. Processing](Processing/processing.md)
 - **Final Project**
   - [Topic](finalproject.md#Topic)
@@ -19,3 +21,4 @@
   - [Market](finalproject.md#Market)
   - [Design and Prototype](finalproject.md#design-and-prototype)
   - [Key Technology](finalproject.md#key-technology)
+

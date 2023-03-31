@@ -82,8 +82,19 @@ Materials and technology used:
 <br><br>
 
 # Key Technology
-?>The PM2.5 air sensor is a device that measures the concentration of fine particulate matter (PM) in the air with a diameter of 2.5 micrometers or less. These small particles can be harmful to human health if inhaled, as they can penetrate deep into the lungs and even into the bloodstream. The PM2.5 air sensor works by using a laser to detect the number of particles in a given volume of air and converting this data into a concentration measurement. It is commonly used in air quality monitoring systems to track pollution levels and inform decisions related to public health and safety.
 
-!>more components missing
+## Main Components 
+- Arduino Uno Microcontroller
+- PM2.5 Air sensor
+
+?>The PM2.5 air sensor is a device that measures the concentration of fine particulate matter (PM) in the air with a diameter of 2.5 micrometers or less. These small particles can be harmful to human health if inhaled, as they can penetrate deep into the lungs and even into the bloodstream. The PM2.5 air sensor works by using a laser to detect the number of particles in a given volume of air and converting this data into a concentration measurement. It is commonly used in air quality monitoring systems to track pollution levels and inform decisions related to public health and safety.
+- WS2812B 16x16 RGB LED Matrix
+
+?>The WS2812B LED is a type of addressable RGB LED that is commonly used in electronics projects. Each LED contains a tiny microcontroller that allows it to be controlled individually or as part of a larger array using a single data pin. This means that you can program the color and brightness of each LED in the array separately, creating complex lighting effects and animations. The WS2812B LED is available in a variety of package sizes and can be easily integrated with popular microcontrollers such as the Arduino. It requires a 5V power supply and can draw up to 60mA per LED at full brightness.
+
+- DHT11 Temperature and Humidity Sensor
+- Standard size IIC LCD Screen
+- MQ135 Gas sensor (not sure)
+- Buzzer (not sure)
 
 !>talk about possible issues with the sensors and how to solve them in future versions of the product
