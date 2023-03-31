@@ -14,8 +14,8 @@
 - **Final Project**
   - [Topic](finalproject.md#Topic)
   - [SDGs](finalproject.md#SDGs)
-  - [User Research](finalproject.md#User)
+  - [User Research](finalproject.md#user-research)
   - [Innovation](finalproject.md#Innovation)
   - [Market](finalproject.md#Market)
-  - [Design and Prototype](finalproject.md#Design)
-  - [Key Technology](finalproject.md#Key)
+  - [Design and Prototype](finalproject.md#design-and-prototype)
+  - [Key Technology](finalproject.md#key-technology)
