@@ -45,6 +45,11 @@ void loop() {
   delay(1000);
 }
 ```
+<div>
+  <img src="https://i.ibb.co/QH71Lfw/VID-20230401-002410-Adobe-Express.gif" alt="VID-20230401-002410-Adobe-Express" border="0" />
+  <img src="https://i.ibb.co/n0Pm5BR/VID-20230401-002816-Adobe-Express.gif" alt="VID-20230401-002816-Adobe-Express" border="0" />
+<div>
+<br><br>
 
 # Environmental monitoring project
 
@@ -94,7 +99,8 @@ void loop() {
 }
 ```
 <br>
-<img src="https://i.ibb.co/qY1C3CH/IMG-20230328-013626.jpg" alt="IMG-20230328-013626" border="0" />
+<div>
+  <img src="https://i.ibb.co/qY1C3CH/IMG-20230328-013626.jpg" alt="IMG-20230328-013626" border="0" />
+  <img src="https://i.ibb.co/wYkJqkt/VID-20230328-013652-Adobe-Express.gif" alt="VID-20230328-013652-Adobe-Express" border="0" />
+<div>
 <br><br>
-
-<img src="https://i.ibb.co/wYkJqkt/VID-20230328-013652-Adobe-Express.gif" alt="VID-20230328-013652-Adobe-Express" border="0" />
