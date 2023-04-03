@@ -100,3 +100,5 @@ Materials and technology used:
 - Standard size IIC LCD Screen
 
 !>talk about possible issues with the sensors and how to solve them in future versions of the product
+
+<img src="https://i.ibb.co/41Z6jbv/testing.jpg" alt="testing" border="0">
