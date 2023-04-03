@@ -18,37 +18,6 @@
         <div class="container">
             <div class="row text-center">
                 <h1 class="white"></h1>
-    <div class="row">
-        <div class="col-md-3 col-sm-6">
-            <div class="our-team">
-                <div class="pic">
-                    <img src="https://i.ibb.co/FkrJN80/IMG-20220328-WA0000-ccexpress.jpg">
-                </div>
-                <div class="team-content">
-                    <h3 class="title">Peter Mulenga</h3>
-<span class="post">Mechanical Design Engineer</span>
-
-[MORE DETAILS](Intro/peter.md)
-         
-                </div>
-            </div>
-        </div>
- 
-        <div class="col-md-3 col-sm-6">
-            <div class="our-team">
-                <div class="pic">
-                    <img src="https://i.ibb.co/mv1GSFG/safin-1.png">
-                </div>
-                <div class="team-content">
-                    <h3 class="title">SAFIN RAHMAN</h3>
-<span class="post">Software Engineer</span>
-                   
-[MORE DETAILS](Intro/safin.md)
-
- </div>
-            </div>
-        </div>
-
 <div class="col-md-3 col-sm-6">
             <div class="our-team">
                 <div class="pic">
@@ -96,6 +65,37 @@
         </div>
     </div>
 </div>
+
+<div class="row">
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="https://i.ibb.co/FkrJN80/IMG-20220328-WA0000-ccexpress.jpg">
+                </div>
+                <div class="team-content">
+                    <h3 class="title">Peter Mulenga</h3>
+<span class="post">Mechanical Design Engineer</span>
+
+[MORE DETAILS](Intro/peter.md)
+         
+                </div>
+            </div>
+        </div>
+ 
+        <div class="col-md-3 col-sm-6">
+            <div class="our-team">
+                <div class="pic">
+                    <img src="https://i.ibb.co/mv1GSFG/safin-1.png">
+                </div>
+                <div class="team-content">
+                    <h3 class="title">SAFIN RAHMAN</h3>
+<span class="post">Software Engineer</span>
+                   
+[MORE DETAILS](Intro/safin.md)
+
+ </div>
+            </div>
+        </div>
         <p>
             
 
