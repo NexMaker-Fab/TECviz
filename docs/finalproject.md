@@ -1,7 +1,7 @@
 # Topic
 
 <br>
-<div class="loader"><img src="https://i.ibb.co/wwDhCzX/Kazelight.jpg" alt="Kazelight"/></div>
+<div class="loader"><img src="https://i.ibb.co/WGWG8vZ/lamp-2.jpg" alt="Kazelight"/></div>
 
 >Kazegami is a small and stylish table lamp that doubles as an air quality monitor. It uses a combination of air sensors, light, wind and paper art to create a visually appealing and interactive experience for users.
 
@@ -83,6 +83,8 @@ Materials and technology used:
 
 <br><img src="https://i.ibb.co/3TQ3csQ/VID-20230331-235215-Adobe-Express.gif" alt="VID-20230331-235215-Adobe-Express" border="0" /></a>
 
+<br><img src="https://i.ibb.co/Vgq74BS/process.jpg" alt="process" border="0">
+
 # Key Technology
 
 ## Main Components 
@@ -96,7 +98,5 @@ Materials and technology used:
 
 - DHT11 Temperature and Humidity Sensor
 - Standard size IIC LCD Screen
-- MQ135 Gas sensor (not sure)
-- Buzzer (not sure)
 
 !>talk about possible issues with the sensors and how to solve them in future versions of the product

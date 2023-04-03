@@ -1,5 +1,4 @@
 # Peter Mulenga 
-> Team Role: Web designer, Content Management.
 
 <br><div class="loader"><img src="https://i.ibb.co/FkrJN80/IMG-20220328-WA0000-ccexpress.jpg" alt="#" /></div>
 <br>

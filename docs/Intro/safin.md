@@ -17,10 +17,3 @@ with other professionals such as graphic designers, artists, marketers and manuf
 The end goal of this process is to create a product that responds to customer needs. 
 I'm excited to find my first project position for the coming year on Design Engineering. I have several original lesson plans I created during my learnig period that I look forward to implementing in my own project. It would be a joy for me to make my project which will sparked my love of learning.
 </p>
-<p align="center">Hobbies</p>
-<p align="center">
-
-</p>
-<p align="center">Team Role</p>
-<p align="center">
-</p>

@@ -10,11 +10,3 @@ We live in a world full of secrets to uncover, rooms behind doorless walls, and 
 -	I have skills in a wide variety of computer softwares, all the way from most Adobe Suite programs (specially Photoshop and Illustrator), 3D Design and CAD (Autodesk 3dsMax, Inventor and Revit, SketchUp) Rendering Engines (Vray, Corona Renderer, Keyshot, Lumion and Unreal Engine) a bit of VFX abilities (Houdini, DRS) and web design using online tools like Figma.
 
 </p>
-<p align="center">Hobbies</p>
-<p align="center">
-
-</p>
-<p align="center">Team Role</p>
-<p align="center">
-
-</p>
