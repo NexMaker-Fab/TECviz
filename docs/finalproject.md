@@ -230,6 +230,9 @@ delay(250);
 <img src="https://i.ibb.co/qY1C3CH/IMG-20230328-013626.jpg" alt="IMG-20230328-013626" border="0" />
 <br><br>
 
+## Material and how to make it
+We used laser cutting for engraving and cutting acrylic panels for the lamp, and cardboard for the box that contains the Arduino board. 
+
 <br><img src="https://i.ibb.co/3TQ3csQ/VID-20230331-235215-Adobe-Express.gif" alt="VID-20230331-235215-Adobe-Express" border="0" /></a>
 
 <br><img src="https://i.ibb.co/Vgq74BS/process.jpg" alt="process" border="0">
@@ -256,6 +259,7 @@ Click to see the videos<br>
 
 - DHT11 Temperature and Humidity Sensor
 - Standard size I2C LCD Screen
+
 
 ## Future versions
 * Can be used as a table lamp with adjustable brightness and color options (future versions)
